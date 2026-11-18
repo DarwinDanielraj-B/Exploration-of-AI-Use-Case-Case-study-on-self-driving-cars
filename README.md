@@ -21,7 +21,7 @@ AI helps autonomous vehicles analyze real-time information from their surroundin
 - Waymo Driver
 - Mercedes-Benz DRIVE PILOT
 - Google Self-Driving Car Project
-- 
+
 ## WORKING PRINCIPLE
 
 The working principle of self-driving cars involves the following steps:
