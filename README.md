@@ -56,4 +56,3 @@ When a pedestrian crosses the road, the self-driving car detects the pedestrian 
 
 # RESULT
 Thus, the application of Artificial Intelligence in self-driving cars was studied successfully. The roles of Machine Learning, Computer Vision, LiDAR, RADAR, GPS, and Sensor Fusion in autonomous driving were understood. The working principle of AI-based autonomous vehicles and their applications in improving road safety and driving efficiency were explored successfully.
-```
